@@ -7,5 +7,6 @@ int main()
 	cout << "welcome to github" << endl;
 	cout << "welcome to git world" << endl;
 	cout << "modify from develop2 branch" << endl;
+	cout << "add a new line again" << endl;
     return 0;
 }
