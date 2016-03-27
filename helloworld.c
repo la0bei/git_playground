@@ -8,5 +8,6 @@ int main()
 	cout << "welcome to git world" << endl;
 	cout << "modify from master branch" << endl;
 	cout << "modify from develop2 branch" << endl;
+	cout << "add a new line from master branch" << endl;
     return 0;
 }
