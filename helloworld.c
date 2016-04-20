@@ -10,6 +10,5 @@ int main()
 	cout << "modify from develop2 branch" << endl;
 	cout << "add a new line from master branch" << endl;
 	cout << "modify from develop2 branch" << endl;
-	cout << "add a new line again" << endl;
     return 0;
 }
